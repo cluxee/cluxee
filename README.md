@@ -8,7 +8,7 @@
 --- 
 
 ### 📫 About Me
--  🌱 Ask me about **C#, Pawno**
+-  🌱 Ask me about **C#, Pawno, JavaScript**
 -  🌱 Currently learning **C, Python, Java.**
 -  🔭 Working at **HopeNoise** as a *Vice President*
 
@@ -22,6 +22,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="40" height="40" />&nbsp;
         <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" title="C#" width="40" height="40" />&nbsp;
         <img src="https://www.freeiconspng.com/thumbs/pawn-icon/pawn-icon-2.png" title="Pawno" width="40" height="40" />&nbsp;
+        <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" title="JavaScript" width="40" height="40" />&nbsp;
   
   
 </div>
