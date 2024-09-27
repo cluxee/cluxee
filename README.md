@@ -8,8 +8,8 @@
 --- 
 
 ### 📫 About Me
--  🌱 Ask me about **C#, Pawno, JavaScript**
--  🌱 Currently learning **C, Python, Java.**
+-  🌱 I am a programmer **C#, Pawno, JavaScript**
+-  🌱 Currently learning **Python, Animation and 3D modeling.**
 -  🔭 Working at **Arcadia Studios** as a *CEO*
 
 ---
