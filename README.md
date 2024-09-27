@@ -10,7 +10,7 @@
 ### 📫 About Me
 -  🌱 Ask me about **C#, Pawno, JavaScript**
 -  🌱 Currently learning **C, Python, Java.**
--  🔭 Working at **HopeNoise** as a *Vice President*
+-  🔭 Working at **Arcadia Studios** as a *CEO*
 
 ---
 
