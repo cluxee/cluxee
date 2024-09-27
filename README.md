@@ -1,6 +1,6 @@
 <div id"header" align="center">
   <img src= "https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" width="300" height"400" />
-  <h1 align="center">Hi 👋, I am is ALEX or csale0202</h1>
+  <h1 align="center">Hi 👋, I am is ALEX or cluxee</h1>
   <h3 align="center">a passion for programming focused on video games as existing game servers or creating separate games on various graphics engines.</h3>
 
 </div>
