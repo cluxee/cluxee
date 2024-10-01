@@ -9,7 +9,7 @@
 ### 📫 About Me
 -  🌱 I am a programmer **C#, Pawno, JavaScript**
 -  🌱 Currently learning **Python, Animation and 3D modeling.**
--  🔭 Working at **Arcadia Studios** as a *CEO*
+-  🔭 Working at **Arcaneum Studios** as a *CEO*
 
 ---
 
